@@ -1,1 +1,1 @@
-# c-cd-aws
+# ci-cd-aws
